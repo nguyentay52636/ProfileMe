@@ -1,13 +1,13 @@
 <!-- # <p align="center"> </p> -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=%E2%9C%8C%EF%B8%8F%20Hi%20there!;%20I%20am%20Dang%20Ngoc%20Tien;Nice%20to%20meet%20you!&center=true&size=27">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F71818&background=FFF5EC00&width=435&lines=+%F0%9F%91%8B+Hi%2C+I'm+Tay+Nguyen;-+%F0%9F%8C%B1+Always+learning+and+growing+my+skills.;-+%F0%9F%9A%80+%F0%9F%92%BBCurrently+working+as+a+frontend+developer." alt="Typing SVG" /></a>
 </h1>
 
 <br>
  
 <p align="center">
-	<a href="https://github.com/NgocTien0110">
-	<img src="https://user-images.githubusercontent.com/79363930/155297309-3d7f32c0-6606-43db-86ad-36978e6bef9d.jpg" width = "80%" alt="NgocTien">
+	<a href="https://github.com/nguyentay52636">
+	<img src="./workflows/z5890822497528_e022fa7cfb80a5e97d001dea44b59678.jpg" width = "80%" alt="nguyentay">
 	</a>
 </p>
 
@@ -99,14 +99,14 @@ namespace NgocTien
 
 ## <p align="center">Visitor's count :eyes:</p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{NgocTien0110}/count.svg" height="50px" alt="NgocTien0110 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{nguyentay52636}/count.svg" height="50px" alt="nguyentay52636 :: Visitor's Count" /></p>
 
 <br>
 
 ## <p align="center">GitHub Profile Trophy 🏆</p>
 
 <p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=NgocTien0110&theme=tokyonight&row=1&column=6" height="118px">
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=NgocTien0110&theme=tokyonight&row=1&column=6" height="118px"> -->
 </p>
 
 <br>
@@ -114,7 +114,7 @@ namespace NgocTien
 ## <p align="center">Profile stats :musical_keyboard:</p>
 
 <p align="center">
-	<a align="center"><img src="https://github-readme-stats.vercel.app/api?username=NgocTien0110&show_icons=true&theme=tokyonight" height="180px" alt="NgocTien0110 :: Profile Stats" /></a>
+	<!-- <a align="center"><img src="https://github-readme-stats.vercel.app/api?username=NgocTien0110&show_icons=true&theme=tokyonight" height="180px" alt="nguyentay52636 :: Profile Stats" /></a> -->
 	<a align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NgocTien0110&langs_count=10&theme=tokyonight&layout=compact" height="180px" alt="nguyentay52636 :: Top Langs" /></a>
 </p>
 
